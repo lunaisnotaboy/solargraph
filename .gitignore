@@ -6,6 +6,4 @@
 /doc
 /tmp
 /various
-.Gemfile
 .solargraph.yml
-Gemfile.lock
